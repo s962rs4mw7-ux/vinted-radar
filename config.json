@@ -1,0 +1,20 @@
+{
+  "query": "MacBook Pro",
+  "min": 130,
+  "max": 200,
+  "markets": [
+    {"code": "fr", "name": "France", "domain": "fr", "currency": "EUR", "rate": 1},
+    {"code": "de", "name": "Allemagne", "domain": "de", "currency": "EUR", "rate": 1},
+    {"code": "it", "name": "Italie", "domain": "it", "currency": "EUR", "rate": 1},
+    {"code": "es", "name": "Espagne", "domain": "es", "currency": "EUR", "rate": 1},
+    {"code": "nl", "name": "Pays-Bas", "domain": "nl", "currency": "EUR", "rate": 1},
+    {"code": "be", "name": "Belgique", "domain": "be", "currency": "EUR", "rate": 1},
+    {"code": "lu", "name": "Luxembourg", "domain": "lu", "currency": "EUR", "rate": 1},
+    {"code": "at", "name": "Autriche", "domain": "at", "currency": "EUR", "rate": 1},
+    {"code": "pt", "name": "Portugal", "domain": "pt", "currency": "EUR", "rate": 1},
+    {"code": "lt", "name": "Lituanie", "domain": "lt", "currency": "EUR", "rate": 1},
+    {"code": "uk", "name": "Royaume-Uni", "domain": "co.uk", "currency": "GBP", "rate": 0.87},
+    {"code": "pl", "name": "Pologne", "domain": "pl", "currency": "PLN", "rate": 4.3},
+    {"code": "cz", "name": "Tchéquie", "domain": "cz", "currency": "CZK", "rate": 24.5}
+  ]
+}
